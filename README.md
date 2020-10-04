@@ -1,2 +1,3 @@
 # bc_omment_luckybro
 B站评论抽奖
+可通过修改api找到自己的评论页来进行抽奖
